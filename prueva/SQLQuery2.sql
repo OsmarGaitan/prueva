@@ -6,4 +6,4 @@ GO
 
 SELECT CONVERT(char(255), @myid) AS 'char';
 
-    
+ 
